@@ -19,7 +19,8 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://onlineshoppingtrendingproducts.blogspot.com/2023/04/wmx-kd-cricket-shoes-bowling-spike-with.html/`
+					`https://greenforyou.000webhostapp.com/`+ encodeURI(path as string)
+ 
 				}`,
 			},
 		};
