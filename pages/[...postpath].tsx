@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.highrevenuegate.com/p80prat1z?key=0a3773808dad5eaf7b7f178afa74dd1f/`
+					`https://onlineshoppingtrendingproducts.blogspot.com/2023/04/wmx-kd-cricket-shoes-bowling-spike-with.html/`
 				}`,
 			},
 		};
